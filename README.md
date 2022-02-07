@@ -33,5 +33,5 @@ This will start the backend on http://localhost:8000.
 ### copy the path to your index.html file
 Copy the path to this file and paste it in your browser to see the game and play.
 
-
+Thanks for tutorial :heart: (c) 2020 Ania Kubow
 
