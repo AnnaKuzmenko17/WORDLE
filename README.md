@@ -8,6 +8,9 @@ WORDLE clone using JavaScript
 - Git 
 - GitHub 
 - NodeJS 
+- Axios
+- Express.js
+- CORS
 - APIes(RapidApi: Random Words, Word Dictionary)
 
 ## Getting Started
