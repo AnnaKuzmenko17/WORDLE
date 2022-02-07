@@ -2,13 +2,7 @@
 WORDLE clone using JavaScript
 
 ## Technologies Used
-1HTML5
-2CSS3
-3JavaScript(ES6)
-Git
-GitHub
-NodeJS
-APIes(RapidApi: Random Words, Word Dictionary)
+HTML5 1CSS3 2JavaScript(ES6) 3Git 4GitHub 5NodeJS 6APIes(RapidApi: Random Words, Word Dictionary)
 
 ## Getting Started
 ### To start this project please go to RapidAPI to sign up for the APIs.
